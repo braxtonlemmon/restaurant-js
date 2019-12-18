@@ -4,7 +4,7 @@ Topics emphasized:
 - npm
 - JavaScript modules
 - webpack
-- setting up a GitHub pages using the dist directory
+- setting up a GitHub Page using the dist directory
 
 # Authors
 Braxton Lemmon
