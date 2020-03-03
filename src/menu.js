@@ -42,7 +42,6 @@ const items = [
 	}
 ]
 
-
 const makeItemDiv = function(item) {
 	const div = document.createElement('div');
 	const img = document.createElement('img');
